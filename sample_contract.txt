@@ -1,0 +1,1 @@
+﻿This is a sample contract used to test the AI-Powered Regulatory Compliance Checker application.
