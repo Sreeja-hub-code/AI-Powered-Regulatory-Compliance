@@ -1,1 +1,1 @@
-This contract must follow data protection rules.
+This contract is made between Company A and Company B. Both parties agree to follow GDPR and data protection policies. Failure to comply may result in termination of this agreement.
